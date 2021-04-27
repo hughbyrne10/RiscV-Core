@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module decoderImm(
     input logic [31:0] instruction,
     output logic [31:0] imm

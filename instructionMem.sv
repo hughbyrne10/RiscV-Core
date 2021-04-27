@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module instructionMem(
     input clock,
     input logic reset,

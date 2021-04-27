@@ -1,4 +1,5 @@
 `timescale 1ns / 1ps
+
 module alu(
     input logic [31:0] aIn, 
     input logic [31:0] bIn,

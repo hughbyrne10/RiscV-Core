@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module flop#(parameter WIDTH = 32) 
     (
     input logic clock, reset,

@@ -1,4 +1,5 @@
 `timescale 1ns / 1ps
+
 module registerFile(
     input logic clock, reset,
     input logic [4:0] rd,
