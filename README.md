@@ -11,9 +11,12 @@ riscv.sv
  -controller.sv
   
  -datapath.sv
-  -all other files
-  The data and instruction memory are currently instasntiated within the data path. This is subject to change.
-  lsu.sv (load-store unit) is also instasntiated within the data path. This is subject to change.
+  
+   -all other files
+   
+   The data and instruction memory are currently instasntiated within the data path. This is subject to change.
+   
+   lsu.sv (load-store unit) is also instasntiated within the data path. This is subject to change.
   
  - The riscv.sv file also contains an interface (risc_if) with modports for communication between the controller module and the datapath module.
  
