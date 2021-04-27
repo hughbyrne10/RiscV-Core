@@ -7,6 +7,7 @@ This leaves 38 instruction total.
 The top down design goes as follows:
 
 riscv.sv
+
  -controller.sv
   
  -datapath.sv
