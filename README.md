@@ -10,7 +10,7 @@ This leaves 38 instruction total.
 ![riscv-1-6-1](https://user-images.githubusercontent.com/67772139/116480516-4e486600-a836-11eb-9b19-1d5205ab1ea1.png)
 
 
-## Supported Instruictions
+## Supported Instructions
 
 - **STORE**
   - SB, SH, SW
